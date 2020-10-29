@@ -1,6 +1,9 @@
 #include<stdio.h>
 #include<string.h>
 #include<stdlib.h>
+// to compile // gcc shop.c -o shop
+//to run ./shop
+
 //product struct
 struct Product{
 	char* name;
